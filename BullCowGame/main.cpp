@@ -16,7 +16,7 @@ int main() {
 	
 	PrintIntro();
 
-	constexpr int NUMBER_OF_TURNS = 5;
+	constexpr int NUMBER_OF_TURNS = 3;
 
 	for (int i = 1; i <= NUMBER_OF_TURNS; i++) {
 		GetGuessAndPrintBack();
