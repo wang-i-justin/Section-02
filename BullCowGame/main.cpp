@@ -1,4 +1,5 @@
 // BullCowGame Project
+// Updates to the project 04/29/2018 - Sync'd with GIT repositories
 
 // # - Pre-Processor directive
 #include <iostream> // use angular when you are referencing a standard library
